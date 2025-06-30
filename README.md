@@ -181,8 +181,8 @@ npm run dev  # or npm start
 
 **Tauhid Shaikh**
 
-- 💼 GitHub: [@TauhidShaikh](https://github.com/TauhidShaikh)
-- 📫 Email: youremail@example.com
+- 💼 GitHub: [@tauhid017](https://github.com/tauhid017)
+- 📫 Email: tauhidshaikhsas@gmail.com
 
 ---
 
